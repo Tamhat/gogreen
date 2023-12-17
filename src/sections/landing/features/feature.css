@@ -1,9 +1,0 @@
-.features{
-    width: 85%!important;
-}
-@media screen and (max-width: 600px) {
-    .features div{
-        margin:0 25px;
-    }
-    
-}

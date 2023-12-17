@@ -48,12 +48,9 @@ module.exports = withVideos({
 
     return config;
   },
-  // next.config.js
-
   experimental: {
-    webpackBuildWorker: true,
+    webpackBundleAnalyzer: true,
+    webpackBundleWorker: true,
   },
-  // Other Next.js configurations...
-
   // other configs
 });
