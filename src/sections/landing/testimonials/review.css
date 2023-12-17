@@ -1,0 +1,50 @@
+.reviewCard {
+    box-shadow: -0.7794860601425171px 3.1179442405700684px 17.148691177368164px rgba(82.87, 82.87, 82.87, 0.12);
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 32px;
+    width: 92% !important;
+    margin-left: 55px;
+    height: 560px !important;
+}
+
+.bb {
+    position: absolute;
+    left: -5%;
+}
+
+.ff {
+    position: absolute;
+    right: -5%;
+}
+
+.splide__track {
+    overflow: visible !important;
+}
+
+.testimonial-controller .splide__pagination {
+    visibility: hidden;
+}
+@media screen and (max-width: 600px) {
+    .reviewCard {
+        width: 100% !important;
+        margin-left: 0px!important;
+        height: 460px !important;
+    }
+    .bb {
+        position: absolute;
+        left: -5%;
+    }
+    .ff {
+        position: absolute;
+        right: -5%;
+    }
+    .splide__track {
+        overflow: visible !important;
+    }
+    .testimonial-controller .splide__pagination {
+        visibility: hidden;
+    }
+    
+}
