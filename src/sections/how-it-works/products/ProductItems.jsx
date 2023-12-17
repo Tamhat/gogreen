@@ -1,8 +1,8 @@
 import Image from "next/image"
 
-import img1 from "/public/assets/updated-images/img1.png";
-import img2 from "/public/assets/updated-images/img2.png";
-import img3 from "/public/assets/updated-images/img3.png";
+import img1 from "/assets/updated-images/img1.png";
+import img2 from "/assets/updated-images/img2.png";
+import img3 from "/assets/updated-images/img3.png";
 
 import { Box, Typography } from '@mui/material'
 

@@ -1,9 +1,9 @@
-import apartments from '/public/assets/commercial-orders/apartments.png'
-import hotels from '/public/assets/commercial-orders/hotels.png'
-import hospitals from '/public/assets/commercial-orders/hospitals.png'
-import restaurants from '/public/assets/commercial-orders/restaurants.png'
-import schools from '/public/assets/commercial-orders/schools.png'
-import offices from '/public/assets/commercial-orders/offices.png'
+import apartments from '/assets/commercial-orders/apartments.png'
+import hotels from '/assets/commercial-orders/hotels.png'
+import hospitals from '/assets/commercial-orders/hospitals.png'
+import restaurants from '/publiassets/commercial-orders/restaurants.png'
+import schools from '/assets/commercial-orders/schools.png'
+import offices from '/assets/commercial-orders/offices.png'
 
 export const faciltyItems = [
 	{

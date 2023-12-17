@@ -1,6 +1,6 @@
-import lm1 from '/public/assets/facts/lm1.png'
-import lm2 from '/public/assets/facts/lm2.png'
-import lm3 from '/public/assets/facts/lm3.png'
+import lm1 from '/assets/facts/lm1.png'
+import lm2 from '/assets/facts/lm2.png'
+import lm3 from '/assets/facts/lm3.png'
 
 export const learnMoreItems = [
     {

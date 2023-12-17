@@ -3,8 +3,8 @@ import Image from "next/image"
 import { Box, Container, Typography, useMediaQuery } from "@mui/material"
 import { alpha, useTheme } from "@mui/material/styles"
 
-import left from '/public/assets/testimonial/“ (1).png'
-import right from '/public/assets/testimonial/“.png'
+import left from '/assets/testimonial/“ (1).png'
+import right from '/assets/testimonial/“.png'
 
 export default function Quote({ quoteText }) {
 

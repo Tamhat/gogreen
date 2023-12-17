@@ -15,7 +15,7 @@ import {
   FormControlLabel,
 } from "@mui/material";
 
-import goGreenLogo from "/public/gogreenbooty.svg";
+import goGreenLogo from "/gogreenbooty.svg";
 
 export default function ContactUsChat() {
   return (

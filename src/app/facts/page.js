@@ -22,8 +22,8 @@ import { LearnMoreCard } from "@/sections/facts/learn-more";
 import { learnMoreItems } from "@/sections/facts/learn-more/LearnMoreItems";
 
 // imgs
-import fact1 from "/public/assets/videos/8d9ecece041e3f7e4a15b1b106b5f2ba.gif";
-import fact2 from "/public/assets/facts/fact-2.png";
+import fact1 from "/assets/videos/8d9ecece041e3f7e4a15b1b106b5f2ba.gif";
+import fact2 from "/assets/facts/fact-2.png";
 import "../page.css";
 
 export default function Facts() {

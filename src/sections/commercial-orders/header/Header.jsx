@@ -13,7 +13,7 @@ import ShoppingBagOutlinedIcon from "@mui/icons-material/ShoppingBagOutlined";
 
 import StyledButton from "@/components/button/StyledButton";
 
-import reducePaper from "/public/assets/commercial-orders/reduce-paper.gif";
+import reducePaper from "/assets/commercial-orders/reduce-paper.gif";
 import { ContactDialog } from "@/components/dialog";
 import './commercial.css'
 

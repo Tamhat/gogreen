@@ -12,7 +12,7 @@ import SvgPhoneIcon from "@/components/button/SvgPhoneIcon";
 
 // import StyledButton from "@/components/button/StyledButton";
 
-import headerImg from "/public/assets/facts/header.png";
+import headerImg from "/assets/facts/header.png";
 import { ContactDialog } from "@/components/dialog";
 import { useState } from "react";
 

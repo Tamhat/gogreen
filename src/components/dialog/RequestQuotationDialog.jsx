@@ -21,7 +21,7 @@ import {
 import { styled, alpha , useTheme} from "@mui/material/styles";
 import CloseIcon from "@mui/icons-material/Close";
 
-import goGreenLogo from "/public/gogreenbooty.svg";
+import goGreenLogo from "/gogreenbooty.svg";
 
 
 export default function RequestQuotationDialog({ open, handleClose }) {

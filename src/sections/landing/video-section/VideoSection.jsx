@@ -11,8 +11,8 @@ import {
 } from "@mui/material";
 import { useTheme } from "@mui/material/styles";
 
-import gogreenLogo from "/public/gogreenbooty.svg";
-import lid from "../../../../public/assets/carousel/jif.gif";
+import gogreenLogo from "/gogreenbooty.svg";
+import lid from "/assets/carousel/jif.gif";
 
 export default function VideoSection({ src1 }) {
   const theme = useTheme();

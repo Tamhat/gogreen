@@ -5,7 +5,7 @@ import Image from "next/image";
 import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
 import "@splidejs/react-splide/css/skyblue";
 
-import carouselRect from "../../../../public/assets/carousel/carousel_rect.png";
+import carouselRect from "/assets/carousel/carousel_rect.png";
 import { SlideItems } from "./SlideItem";
 
 // mui

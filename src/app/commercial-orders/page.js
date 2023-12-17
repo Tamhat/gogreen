@@ -33,13 +33,13 @@ import { faciltyItems } from "@/sections/commercial-orders/facilities/FacilityIt
 import { Showcase } from "@/sections/commercial-orders/description-showcase";
 
 // img
-import officeBg from "/public/assets/commercial-orders/office.png";
+import officeBg from "/assets/commercial-orders/office.png";
 
-import earthOnHand from "/public/assets/commercial-orders/earth-on-hand.png";
-import performacePractices from "/public/assets/commercial-orders/performance-practices.png";
-import monitaryBenefits from "/public/assets/commercial-orders/monitary-benefits.png";
+import earthOnHand from "/assets/commercial-orders/earth-on-hand.png";
+import performacePractices from "/assets/commercial-orders/performance-practices.png";
+import monitaryBenefits from "/assets/commercial-orders/monitary-benefits.png";
 
-import rectPlaceholder from "/public/assets/commercial-orders/rect.jpg";
+import rectPlaceholder from "/assets/commercial-orders/rect.jpg";
 import "./com.css";
 import "./../page.css";
 

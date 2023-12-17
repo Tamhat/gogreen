@@ -16,7 +16,7 @@ import {
 
 import { useTheme } from "@mui/material/styles";
 
-import testimonial1 from "/public/assets/testimonial/testimonial-1.png";
+import testimonial1 from "/assets/testimonial/testimonial-1.png";
 import "./review.css";
 
 import Quote from "./Quote";

@@ -19,7 +19,7 @@ import SvgShopIcon from "../carousel/SvgShopIcon";
 
 import StyledButton from "@/components/button/StyledButton";
 
-import offerImg from "/public/assets/offer/offer.png";
+import offerImg from "/assets/offer/offer.png";
 import { useState } from "react";
 
 export default function OfferSection() {

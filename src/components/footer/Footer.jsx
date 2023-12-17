@@ -14,12 +14,12 @@ import {
 } from "@mui/material";
 import { useTheme } from "@mui/material/styles";
 
-import gogreenLogo from "/public/gogreen-footer-logo.png";
+import gogreenLogo from "/gogreen-footer-logo.png";
 
-import facebook from "/public/socials/facebook.png";
-import tiktok from "/public/socials/tiktok.png";
-import instagram from "/public/socials/instagram.png";
-import youtube from "/public/socials/youtube.png";
+import facebook from "/socials/facebook.png";
+import tiktok from "/socials/tiktok.png";
+import instagram from "/socials/instagram.png";
+import youtube from "/socials/youtube.png";
 import StyledButton from "../button/StyledButton";
 
 export default function Footer() {

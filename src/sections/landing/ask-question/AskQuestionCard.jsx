@@ -13,7 +13,7 @@ import { useTheme } from "@mui/material/styles";
 
 import StyledButton from "@/components/button/StyledButton";
 
-import customerIcon from "/public/assets/ask-question/customer-support.png";
+import customerIcon from "/assets/ask-question/customer-support.png";
 
 export default function AskQuestionCard() {
   const theme = useTheme();

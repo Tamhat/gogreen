@@ -34,8 +34,8 @@ import { StepCard } from "@/sections/how-it-works/Steps";
 import { stepItems } from "@/sections/how-it-works/Steps/StepItems";
 
 // imgs
-import fact1 from "/public/assets/facts/fact-1.png";
-import fact2 from "/public/assets/facts/fact-2.png";
+import fact1 from "/assets/facts/fact-1.png";
+import fact2 from "/assets/facts/fact-2.png";
 
 import { useState } from "react";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
@@ -44,16 +44,16 @@ import ScrollToTop from "react-scroll-to-top";
 
 import Image from "next/image";
 
-import img1 from "/public/assets/how-it-works/instructions/1.png";
-import img2 from "/public/assets/how-it-works/instructions/2.png";
-import img3 from "/public/assets/how-it-works/instructions/3.png";
-import img4 from "/public/assets/how-it-works/instructions/4.png";
-import img5 from "/public/assets/how-it-works/instructions/5.png";
-import img6 from "/public/assets/how-it-works/instructions/6.png";
-import img7 from "/public/assets/how-it-works/instructions/7.png";
-import img8 from "/public/assets/how-it-works/instructions/8.png";
-import img9 from "/public/assets/how-it-works/instructions/9.png";
-import img10 from "/public/assets/how-it-works/instructions/10.png";
+import img1 from "/assets/how-it-works/instructions/1.png";
+import img2 from "/assets/how-it-works/instructions/2.png";
+import img3 from "/assets/how-it-works/instructions/3.png";
+import img4 from "/assets/how-it-works/instructions/4.png";
+import img5 from "/assets/how-it-works/instructions/5.png";
+import img6 from "/assets/how-it-works/instructions/6.png";
+import img7 from "/assets/how-it-works/instructions/7.png";
+import img8 from "/assets/how-it-works/instructions/8.png";
+import img9 from "/assets/how-it-works/instructions/9.png";
+import img10 from "/assets/how-it-works/instructions/10.png";
 import { VideoSection } from "@/sections/how-it-works/video-section";
 
 export default function HowItWorks() {

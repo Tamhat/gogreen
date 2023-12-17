@@ -1,20 +1,20 @@
-import valves from '../../../../public/assets/updated-images/valves1.jpg'
-import valveModern from '../../../../public/assets/updated-images/valves-modern-3.jpg'
+import valves from '/assets/updated-images/valves1.jpg'
+import valveModern from '/assets/updated-images/valves-modern-3.jpg'
 
 
-import seat from '/public/assets/why-us/seat.jpg'
+import seat from '/assets/why-us/seat.jpg'
 
-import twoi  from '../../../../public/assets/updated-images/2i.jpg'
-import twoii  from '../../../../public/assets/updated-images/2ii.png'
+import twoi  from '/assets/updated-images/2i.jpg'
+import twoii  from '/assets/updated-images/2ii.png'
 
-import threei  from '../../../../public/assets/updated-images/3iv.png'
-import threeii  from '../../../../public/assets/updated-images/3v.png'
+import threei  from '/assets/updated-images/3iv.png'
+import threeii  from '/assets/updated-images/3v.png'
 
-import fouri  from '../../../../public/assets/updated-images/4i2.png'
-import fourii  from '../../../../public/assets/updated-images/4ii.png'
+import fouri  from '/assets/updated-images/4i2.png'
+import fourii  from '/assets/updated-images/4ii.png'
 
-import fivei  from '../../../../public/assets/updated-images/happy.png'
-import fiveii  from '../../../../public/assets/updated-images/sad.png'
+import fivei  from '/assets/updated-images/happy.png'
+import fiveii  from '/assets/updated-images/sad.png'
 
 
 

@@ -21,11 +21,12 @@ import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
 
 import { whyUsItems } from "./WhyUsItems";
 
-import gogreenLogo from "../../../../public/gogreenbooty.svg";
+import gogreenLogo from '/gogreenbooty.svg';
+
 import { useTheme } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
 
-import valves from "/public/assets/why-us/valves.jpg";
+import valves from "/assets/why-us/valves.jpg";
 
 import NavigateNextIcon from "@mui/icons-material/NavigateNext";
 import { ProductCard } from "../products";

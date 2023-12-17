@@ -14,7 +14,7 @@ import { ContactDialog } from "@/components/dialog";
 // import StyledButton from "@/components/button/StyledButton";
 import "./header.css";
 
-import headerImg from "/public/assets/about/header.png";
+import headerImg from "/assets/about/header.png";
 
 export default function Header() {
   const theme = useTheme();

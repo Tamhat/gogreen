@@ -16,20 +16,20 @@ import {
 
 // assets
 
-import trustInactive from "/public/assets/about/Trust inactive.png";
-import trustActive from "/public/assets/about/Trust Active.png";
+import trustInactive from "/assets/about/Trust inactive.png";
+import trustActive from "/assets/about/Trust Active.png";
 
-import customerInactive from "/public/assets/about/Customers inactive.png";
-import customerActive from "/public/assets/about/Customers Active.png";
+import customerInactive from "/assets/about/Customers inactive.png";
+import customerActive from "/assets/about/Customers Active.png";
 
-import qualityInactive from "/public/assets/about/Quality InActive.png";
-import qualityActive from "/public/assets/about/Quality Active.png";
+import qualityInactive from "/assets/about/Quality InActive.png";
+import qualityActive from "/assets/about/Quality Active.png";
 
-import environmentActive from "/public/assets/about/Environment Active.png";
-import environmentInactive from "/public/assets/about/Environment inactive.png";
+import environmentActive from "/assets/about/Environment Active.png";
+import environmentInactive from "/assets/about/Environment inactive.png";
 
-import humanityInactive from "/public/assets/about/Humanity inactive.png";
-import humanityActive from "/public/assets/about/Humanity Active.png";
+import humanityInactive from "/assets/about/Humanity inactive.png";
+import humanityActive from "/assets/about/Humanity Active.png";
 import SectionHeading from "@/components/heading/SectionHeading";
 import { useTheme } from "@emotion/react";
 

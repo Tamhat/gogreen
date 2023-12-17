@@ -8,7 +8,7 @@ import { Splide, SplideSlide } from "@splidejs/react-splide";
 import Image from "next/image";
 import { useState } from "react";
 import { MainHeroImg } from "./MainHeroImg";
-import headerImg from "./../../../../public/assets/how-it-works/header.png";
+import headerImg from "/assets/how-it-works/header.png";
 
 export default function Carousal() {
   const theme = useTheme();

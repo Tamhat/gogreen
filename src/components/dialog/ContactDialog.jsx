@@ -21,7 +21,7 @@ import {
 import { styled, alpha } from "@mui/material/styles";
 import CloseIcon from "@mui/icons-material/Close";
 
-import goGreenLogo from "/public/gogreenbooty.svg";
+import goGreenLogo from "/gogreenbooty.svg";
 
 const StyledTextField = styled(TextField, {
   shouldForwardProp: (prop) => prop,

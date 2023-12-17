@@ -3,12 +3,12 @@ import Image from "next/image";
 import { Container, Box, Grid, Typography, useMediaQuery } from "@mui/material";
 import { alpha, useTheme } from "@mui/material/styles";
 
-import clean from "/public/assets/features/clean.png";
-import nozzle from "/public/assets/features/nozzle.png";
-import toggleSwitch from "/public/assets/features/toggleSwitch.png";
-import wash from "/public/assets/features/wash.png";
+import clean from "/assets/features/clean.png";
+import nozzle from "/assets/features/nozzle.png";
+import toggleSwitch from "/assets/features/toggleSwitch.png";
+import wash from "/assets/features/wash.png";
 
-import featureImg from "/public/assets/carousel/img2.png";
+import featureImg from "/assets/carousel/img2.png";
 
 import '@/sections/landing/features/feature.css';
 
