@@ -6,7 +6,7 @@ import { Box, Typography, Button, Link, useMediaQuery } from "@mui/material";
 import { styled, useTheme } from "@mui/material/styles";
 
 // images
-import img1 from "../../../../public/assets/carousel/img1.jpg";
+import img1 from "https://i.ibb.co/L9YGqnt/seat.jpg";
 import img2 from "../../../../public/assets/carousel/img2.png";
 import img3 from "../../../../public/assets/carousel/img3.png";
 import img4 from "../../../../public/assets/carousel/img4.jpg";
