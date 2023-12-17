@@ -1,0 +1,10 @@
+.top-nav{
+    min-height: 10px!important;
+    height:10px;
+    padding:20px 500px 0 0;
+}
+.bottom-nav{
+    min-height: 10px!important;
+    height:10px;
+    padding:10px 0 40px 0;
+}

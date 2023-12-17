@@ -1,0 +1,1 @@
+export { default as FactItem } from './FactItem'

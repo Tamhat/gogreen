@@ -37,33 +37,33 @@ import { ConvinceReason, Service } from "@/sections/landing/why-switch";
 
 // why switch images
 
-import src1 from "/assets/why-switch/money-active.png";
+import src1 from "/public/assets/why-switch/money-active.png";
 
-import src2 from "/assets/why-switch/water-active.png";
+import src2 from "/public/assets/why-switch/water-active.png";
 
-import src3 from "/assets/why-switch/trees-active.png";
+import src3 from "/public/assets/why-switch/trees-active.png";
 
-import src4 from "/assets/why-switch/hygienic-active.png";
+import src4 from "/public/assets/why-switch/hygienic-active.png";
 
-import src5 from "/assets/why-switch/comfort-active.png";
+import src5 from "/public/assets/why-switch/comfort-active.png";
 
-import src6 from "/assets/why-switch/convenience-active.png";
+import src6 from "/public/assets/why-switch/convenience-active.png";
 
-import moneyInactive from "/assets/why-switch/money-inactive.png";
+import moneyInactive from "/public/assets/why-switch/money-inactive.png";
 
-import waterInactive from "/assets/why-switch/water-inactive.png";
+import waterInactive from "/public/assets/why-switch/water-inactive.png";
 
-import treesInactive from "/assets/why-switch/trees-inactive.png";
+import treesInactive from "/public/assets/why-switch/trees-inactive.png";
 
-import hygenicInactive from "/assets/why-switch/hygienic-inactive.png";
+import hygenicInactive from "/public/assets/why-switch/hygienic-inactive.png";
 
-import comfortInactive from "/assets/why-switch/comfort-inactive.png";
+import comfortInactive from "/public/assets/why-switch/comfort-inactive.png";
 
-import convenienceInactive from "/assets/why-switch/convenience-inactive.png";
+import convenienceInactive from "/public/assets/why-switch/convenience-inactive.png";
 
 // quick install
-import badge from "/assets/why-switch/badge.png";
-import setup from "/assets/why-switch/setup.png";
+import badge from "/public/assets/why-switch/badge.png";
+import setup from "/public/assets/why-switch/setup.png";
 import { AskQuestionCard } from "@/sections/landing/ask-question";
 import { VideoSection } from "@/sections/landing/video-section";
 import { TestimonialSlider } from "@/sections/landing/testimonials";
@@ -204,7 +204,7 @@ var convincelists2 = [
 ];
 
 // testimonials
-import testimonial1 from "/assets/testimonial/testimonial-1.png";
+import testimonial1 from "/public/assets/testimonial/testimonial-1.png";
 
 import { useState, useRef, useEffect } from "react";
 import { ContactDialog } from "@/components/dialog";
