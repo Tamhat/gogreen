@@ -38,7 +38,7 @@ export const SlideItems = () => {
 
   return [
     {
-      src: img1,
+      src: 'https://i.ibb.co/L9YGqnt/seat.jpg',
       alt: "Image 1",
       element: (
         <>

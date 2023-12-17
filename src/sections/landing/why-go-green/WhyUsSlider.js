@@ -25,7 +25,7 @@ import gogreenLogo from "../../../../public/gogreenbooty.svg";
 import { useTheme } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
 
-import valves from "https://i.ibb.co/JRGXQMN/valves.jpg";
+// import valves from "https://i.ibb.co/JRGXQMN/valves.jpg";
 
 import NavigateNextIcon from "@mui/icons-material/NavigateNext";
 import { ProductCard } from "../products";
